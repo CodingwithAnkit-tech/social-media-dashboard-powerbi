@@ -3,7 +3,7 @@
 A visually interactive Social Media Analytics Dashboard built using Power BI.  
 This dashboard shows complete insights of views, likes, comments, engagement rate, and video performance from 2020–2024.
 
----
+
 
 
 ## 🚀 Project Highlights
